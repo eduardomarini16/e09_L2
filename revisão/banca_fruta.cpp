@@ -20,5 +20,7 @@ int main() {
     cout << fixed << setprecision(2);
     cout << "Total de " << laranja << " laranja(s), cada unidade custara: R$" << preco << endl;
     cout << "Valor total da compra sera de: R$" << (laranja * preco) << endl;
+
+    return 0;
 }
 
